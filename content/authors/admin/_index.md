@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jeremy Hanyang Chen 陈翰扬
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Hanyang
+last_name: Chen
 
 # Status emoji
 status:
