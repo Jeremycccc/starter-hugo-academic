@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeremy Hanyang Chen 陈翰扬
+title: Hanyang Chen 陈翰扬(Jeremy)
 
 # Full name (for SEO)
 first_name: Hanyang
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergrad at The University of Hong Kong
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, representation learning, embodied intelligence and (potentially)robotics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Representation learning
+  - Embodied Intelligence
+    
 
 # Education to show in About widget
 education:
