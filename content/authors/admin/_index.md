@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bsc. Computer Science + Quantitive Finance.
+    - course: BSc. Computer Science + Quantitive Finance.
       institution: The Univeristy of Hong Kong
       year: 2024
 
