@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Hanyang Chen 
-陈翰扬(Jeremy)
+title: Hanyang Chen 陈翰扬
 
 # Full name (for SEO)
 first_name: Hanyang
