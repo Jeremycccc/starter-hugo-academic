@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Hanyang Chen 陈翰扬(Jeremy)
+title: Hanyang Chen 
+陈翰扬(Jeremy)
 
 # Full name (for SEO)
 first_name: Hanyang
@@ -18,8 +19,8 @@ role: Undergrad at The University of Hong Kong
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Hong Kong
+    url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning, representation learning, embodied intelligence and (potentially)robotics.
@@ -33,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Computer Science + Quantitive Finance
+    - course: Bsc. Computer Science + Quantitive Finance.
       institution: The Univeristy of Hong Kong
       year: 2024
 
@@ -69,5 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am Hanyang Chen, in Chinese it's 陈翰扬, you can also call me Jeremy. I am a final-year undergrad student in HKU(The University of Hong Kong). I tried to explore those interest me and hopefully exhibit value to others, where the most prominent one is AI. I am fornuate to advised by [Dr.Yanchao Yang](https://datascience.hku.hk/people/yanchao-yang/) and we just finishes a work on Representatiion Learning this summer. I am also fornuate to be advised by [Prof.Yi Ma](http://people.eecs.berkeley.edu/~yima/) and [Dr.Xili Dai](https://delay-xili.github.io/) for my final year project. Utilizing AI algorithms to facilitate lifes interests me, includes Representation learning, Embodied AI, Large model and Robotics. I am planning to pursue a further degree in AI research, let's see where life takes my curiosity to.
+
 {style="text-align: justify;"}
