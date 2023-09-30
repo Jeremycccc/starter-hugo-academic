@@ -12,6 +12,8 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+<!--
   - block: features
     content:
       title: Skills
@@ -102,6 +104,7 @@ sections:
           url: ''
     design:
       columns: '2'
+--!>
   - block: collection
     id: posts
     content:
